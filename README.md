@@ -7,3 +7,6 @@ Using this tutorial from [Arailla](https://medium.com/@arailla/an-introduction-t
 And this other [tutorial](https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd) to learn how to use Heroku
 
 Watch it running [here](https://match-history-app-test.herokuapp.com)" 
+
+--------------------------------------------------------------------------------------------
+This repository died when Heroku spotted their free services for PostgreSQL Databases
