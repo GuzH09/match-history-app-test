@@ -9,4 +9,4 @@ And this other [tutorial](https://towardsdatascience.com/a-quick-tutorial-on-how
 Watch it running [here](https://match-history-app-test.herokuapp.com)" 
 
 --------------------------------------------------------------------------------------------
-This repository died when Heroku spotted their free services for PostgreSQL Databases
+This repository died when Heroku stopped their free services for PostgreSQL Databases
